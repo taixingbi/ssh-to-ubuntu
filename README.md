@@ -1,5 +1,5 @@
 # ssh-to-ubuntu
-### ssh to server-node
+### ssh to server-node-1
 ssh tb@192.168.86.179
 
 ### ssh to gpu-node-1
