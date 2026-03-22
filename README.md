@@ -1,7 +1,9 @@
 # ssh-to-ubuntu
+### ssh to server-node
+ssh tb@192.168.86.179
 
-### ssh to taixing-gpu-node-1
+### ssh to gpu-node-1
 ssh tb@192.168.86.173
 
-### ssh to taixing-gpu-node-2
+### ssh to gpu-node-2
 ssh tb@192.168.86.176
